@@ -1,2 +1,2 @@
 # test
-only_test
+just test
